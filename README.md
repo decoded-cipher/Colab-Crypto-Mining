@@ -9,3 +9,9 @@ But as someone who advocates for the freedom of knowledge through experimentatio
 And above all, its not something deployed permenently (Google CoLabs sessions have a maximum lifespan of 12 hours).
 
 So, Happy Coding
+
+
+### Note:
+- Checkout the **[Google Colab FAQ](https://research.google.com/colaboratory/faq.html)** for more details :
+
+![image](https://user-images.githubusercontent.com/44474792/128936558-994a956a-a6ff-438e-af34-0e4be705e0c5.png)
