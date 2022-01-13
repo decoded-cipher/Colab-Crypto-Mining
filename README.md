@@ -12,6 +12,7 @@ And above all, its not something deployed permenently *(Google CoLabs sessions h
 
 
 ### :warning: Warning Note:
+- Every cloud computation service provider has a built-in system to recognize & stop service nodes that perform Mining Experiments. Hence, any mining experiment conducted on the cloud won't last more than 1 to 1.5 Hour.
 - Checkout the **[Google Colab FAQ](https://research.google.com/colaboratory/faq.html)** for more details :
 
 ![image](https://user-images.githubusercontent.com/44474792/128936558-994a956a-a6ff-438e-af34-0e4be705e0c5.png)
